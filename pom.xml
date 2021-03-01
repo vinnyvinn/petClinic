@@ -50,6 +50,6 @@
     </build>
 
     <scm>
-        <developerConnection></developerConnection>
+        <developerConnection>scm:git:https://github.com/vinnyvinn/petClinic.git</developerConnection>
     </scm>
 </project>
